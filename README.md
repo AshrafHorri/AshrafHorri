@@ -1,17 +1,21 @@
 <div align="center">
 
 # Hi 👋, I'm Achraf Horri!
-<br>
-- 🔭 I’m currently focused on sharpening my skills in **[e.g., modern JavaScript frameworks like React/Next.js and Python for data manipulation]**. <br>
-- 🌱 I’m currently learning about **[e.g., Machine Learning algorithms for predictive analytics and advanced database optimization techniques]**. <br>
-- 👯 I’m looking to collaborate on **entry-level open-source projects** or **team-based learning initiatives** in web development or data science. <br>
-- 🤔 I’m looking for help with **[e.g., best practices for deploying full-stack applications or understanding complex statistical models]**. <br>
-- 💬 Ask me about **[e.g., JavaScript, Python basics, web development concepts, data cleaning, or exploratory data analysis]**.<br>
-- ⚡ Fun fact: **[A fun fact about yourself, e.g., I'm also a keen chess player, or I love experimenting with new recipes in my free time]**. <br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh5OW8yaHA0czUwa2ttYXNhcDg1eWRibmMyYnAya2RyaG93YnUxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.gif" alt="Welcome" width="400" />
 <br>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh5OW8yaHA0czUwa2ttYXNhcDg1eWRibmMyYnAya2RyaG93YnUxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.gif" align="center" alt="Welcome" width="400" />
+### 🧑‍💻 About Me:
+I'm an **Aspiring Full-stack Developer** and **Data Analyst**. I'm passionate about crafting engaging web experiences and uncovering insights from complex datasets. Constantly learning and building, I'm eager to contribute to innovative projects and solve real-world problems with code and data.
+
+- 🔭 I’m currently focused on sharpening my skills in **[e.g., modern JavaScript frameworks like React/Next.js and Python for data manipulation]**.
+- 🌱 I’m currently learning about **[e.g., Machine Learning algorithms for predictive analytics and advanced database optimization techniques]**.
+- 👯 I’m looking to collaborate on **entry-level open-source projects** or **team-based learning initiatives** in web development or data science.
+- 🤔 I’m looking for help with **[e.g., best practices for deploying full-stack applications or understanding complex statistical models]**.
+- 💬 Ask me about **[e.g., JavaScript, Python basics, web development concepts, data cleaning, or exploratory data analysis]**.
+- ⚡ Fun fact: **[A fun fact about yourself, e.g., I'm also a keen chess player, or I love experimenting with new recipes in my free time]**.
+
 <br>
+
 ### 🛠️ My Current Learning Stack:
 
 **Languages:** <br>
@@ -51,8 +55,7 @@
 Currently, I'm focusing on strengthening my foundational knowledge in both **web development paradigms** and **data analysis methodologies**. My goal is to combine these skills to build applications that are not only user-friendly but also data-driven and insightful. I'm actively working on small projects to apply theoretical knowledge and solidify my understanding.
 
 <br>
-### 🧑‍💻 About Me:
-I'm an **Aspiring Full-stack Developer** and **Data Analyst**. I'm passionate about crafting engaging web experiences and uncovering insights from complex datasets. Constantly learning and building, I'm eager to contribute to innovative projects and solve real-world problems with code and data.
+
 
 
 ### 📧 Connect with Me:
@@ -60,13 +63,13 @@ I'm an **Aspiring Full-stack Developer** and **Data Analyst**. I'm passionate ab
 
 <p align="center">
 <span> <a href="https://linkedin.com/in/achrafhorri1996/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a></span>
  <span><a href="https://instagram.com/achrafhorri/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a></span>
  <span><a href="mailto:horri achraf">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a></span>
   </p>
 <br>
