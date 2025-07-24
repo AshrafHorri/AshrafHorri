@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with **[e.g., best practices for deploying full-stack applications or understanding complex statistical models]**.
 - 💬 Ask me about **[e.g., JavaScript, Python basics, web development concepts, data cleaning, or exploratory data analysis]**.
 - ⚡ Fun fact: **[A fun fact about yourself, e.g., I'm also a keen chess player, or I love experimenting with new recipes in my free time]**.
-
+<br>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh5OW8yaHA0czUwa2ttYXNhcDg1eWRibmMyYnAya2RyaG93YnUxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.gif" alt="Welcome" width="400" />
 <br>
