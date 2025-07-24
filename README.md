@@ -37,13 +37,7 @@ I'm an **Aspiring Full-stack Developer** and **Data Analyst**. I'm passionate ab
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### 📊 My GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-### 💡 What I'm Learning & Building:
-Currently, I'm focusing on strengthening my foundational knowledge in both **web development paradigms** and **data analysis methodologies**. My goal is to combine these skills to build applications that are not only user-friendly but also data-driven and insightful. I'm actively working on small projects to apply theoretical knowledge and solidify my understanding.
+
 
 ### 📧 Connect with Me:
 
