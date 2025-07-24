@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # Hi 👋, I'm Achraf Horri!
 <br>
