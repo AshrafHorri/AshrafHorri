@@ -1,3 +1,4 @@
+<div align="center">
 # Hi 👋, I'm Achraf Horri!
 
 ### 🧑‍💻 About Me:
