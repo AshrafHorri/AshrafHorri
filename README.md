@@ -1,6 +1,8 @@
 <div align="center">
 
 # Hi 👋, I'm Achraf Horri!
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh5OW8yaHA0czUwa2ttYXNhcDg1eWRibmMyYnAya2RyaG93YnUxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.gif" alt="Welcome" width="400" />
+<br>
 
 ### 🧑‍💻 About Me:
 I'm an **Aspiring Full-stack Developer** and **Data Analyst**. I'm passionate about crafting engaging web experiences and uncovering insights from complex datasets. Constantly learning and building, I'm eager to contribute to innovative projects and solve real-world problems with code and data.
