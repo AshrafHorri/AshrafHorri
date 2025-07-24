@@ -1,12 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Achraf Horri!
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh5OW8yaHA0czUwa2ttYXNhcDg1eWRibmMyYnAya2RyaG93YnUxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.gif" alt="Welcome" width="400" />
 <br>
-
-### 🧑‍💻 About Me:
-I'm an **Aspiring Full-stack Developer** and **Data Analyst**. I'm passionate about crafting engaging web experiences and uncovering insights from complex datasets. Constantly learning and building, I'm eager to contribute to innovative projects and solve real-world problems with code and data.
-
 - 🔭 I’m currently focused on sharpening my skills in **[e.g., modern JavaScript frameworks like React/Next.js and Python for data manipulation]**.
 - 🌱 I’m currently learning about **[e.g., Machine Learning algorithms for predictive analytics and advanced database optimization techniques]**.
 - 👯 I’m looking to collaborate on **entry-level open-source projects** or **team-based learning initiatives** in web development or data science.
@@ -14,8 +9,9 @@ I'm an **Aspiring Full-stack Developer** and **Data Analyst**. I'm passionate ab
 - 💬 Ask me about **[e.g., JavaScript, Python basics, web development concepts, data cleaning, or exploratory data analysis]**.
 - ⚡ Fun fact: **[A fun fact about yourself, e.g., I'm also a keen chess player, or I love experimenting with new recipes in my free time]**.
 
-<br>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh5OW8yaHA0czUwa2ttYXNhcDg1eWRibmMyYnAya2RyaG93YnUxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.gif" alt="Welcome" width="400" />
+<br>
 ### 🛠️ My Current Learning Stack:
 
 **Languages:** <br>
@@ -55,7 +51,8 @@ I'm an **Aspiring Full-stack Developer** and **Data Analyst**. I'm passionate ab
 Currently, I'm focusing on strengthening my foundational knowledge in both **web development paradigms** and **data analysis methodologies**. My goal is to combine these skills to build applications that are not only user-friendly but also data-driven and insightful. I'm actively working on small projects to apply theoretical knowledge and solidify my understanding.
 
 <br>
-
+### 🧑‍💻 About Me:
+I'm an **Aspiring Full-stack Developer** and **Data Analyst**. I'm passionate about crafting engaging web experiences and uncovering insights from complex datasets. Constantly learning and building, I'm eager to contribute to innovative projects and solve real-world problems with code and data.
 
 
 ### 📧 Connect with Me:
