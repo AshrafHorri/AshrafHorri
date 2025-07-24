@@ -2,12 +2,12 @@
 
 # Hi 👋, I'm Achraf Horri!
 <br>
-- 🔭 I’m currently focused on sharpening my skills in **[e.g., modern JavaScript frameworks like React/Next.js and Python for data manipulation]**.<br>
-- 🌱 I’m currently learning about **[e.g., Machine Learning algorithms for predictive analytics and advanced database optimization techniques]**.<br>
-- 👯 I’m looking to collaborate on **entry-level open-source projects** or **team-based learning initiatives** in web development or data science.<br>
-- 🤔 I’m looking for help with **[e.g., best practices for deploying full-stack applications or understanding complex statistical models]**.<br>
+- 🔭 I’m currently focused on sharpening my skills in **[e.g., modern JavaScript frameworks like React/Next.js and Python for data manipulation]**. <br>
+- 🌱 I’m currently learning about **[e.g., Machine Learning algorithms for predictive analytics and advanced database optimization techniques]**. <br>
+- 👯 I’m looking to collaborate on **entry-level open-source projects** or **team-based learning initiatives** in web development or data science. <br>
+- 🤔 I’m looking for help with **[e.g., best practices for deploying full-stack applications or understanding complex statistical models]**. <br>
 - 💬 Ask me about **[e.g., JavaScript, Python basics, web development concepts, data cleaning, or exploratory data analysis]**.<br>
-- ⚡ Fun fact: **[A fun fact about yourself, e.g., I'm also a keen chess player, or I love experimenting with new recipes in my free time]**.<br>
+- ⚡ Fun fact: **[A fun fact about yourself, e.g., I'm also a keen chess player, or I love experimenting with new recipes in my free time]**. <br>
 <br>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemh5OW8yaHA0czUwa2ttYXNhcDg1eWRibmMyYnAya2RyaG93YnUxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGu9zmB3gYjxzdC/giphy.gif" align="center" alt="Welcome" width="400" />
